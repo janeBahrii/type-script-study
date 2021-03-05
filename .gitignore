@@ -1,2 +1,4 @@
 #ignore auto-generated .js files
 *.js
+.DS_Store
+readme.txt

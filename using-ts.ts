@@ -5,7 +5,7 @@ const input2 = document.getElementById("num2")! as HTMLInputElement;
 function add(num1: number, num2: number) {
     console.log("sum");
     console.log("made a change");
-    console.log("testing .gitignore");
+    console.log("testing!!! .gitignore");
   return num1 + num2;
 }
 
